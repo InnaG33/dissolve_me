@@ -1,0 +1,34 @@
+﻿Abbr,Polymer_name,Monomer_chem_structure,tot_Mw,C,H,O,N,Cl,Br,S
+A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",C5O2H8,220000,5,8,2,0,0,0,0
+B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",C5O2H8,200000,5,8,2,0,0,0,0
+C,"Epikote 1001-epoxy, Shell Chemical Co ",C18H20O3,1000,18,20,3,0,0,0,0
+D,Plexal P65-66 oil length alkyd Polyplex,C10H8O4,35000,10,8,4,0,0,0,0
+E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",C23H33O2,1500,23,33,2,0,0,0,0
+F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",C8H14O2,120000,8,14,2,0,0,0,0
+G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",C8H8,400000,8,8,0,0,0,0,0
+H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",C4H6O2,100000,4,6,2,0,0,0,0
+I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",C2H6O2N2,3500,2,6,2,2,0,0,0
+J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,C12H14O23N6,1500000,12,14,23,6,0,0,0
+K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",C8H15Cl,97500,8,15,0,0,1,0,0
+L,"Cellulose acetate, Cellidora A-Bayer AG",C23H27O12,30000,23,27,12,0,0,0,0
+M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",C7H6O,3000,7,6,1,0,0,0,0
+N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",C7H6O,5000,7,6,1,0,0,0,0
+O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",C25H34O2,2000,25,34,2,0,0,0,0
+P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",C25H40O5,5000,25,40,5,0,0,0,0
+Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",C2.03H4.022O1.002N0.002,10000,2.03,4.022,1.002,0.002,0,0,0
+R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",C30H22O14,6000,30,22,14,0,0,0,0
+S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,C13H21O5,2000,13,21,5,0,0,0,0
+T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",C12H14,1000000,12,14,0,0,0,0,0
+U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",C6H10N,1000000,6,10,0,1,0,0,0
+V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",C5H8,1000000,5,8,0,0,0,0,0
+X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",CHH9,125000,4,9,0,0,0,0,0
+Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",C2H4,250000,2,4,0,0,0,0,0
+Z,"Versamid 930-polyamide, General Mills, Inc",C6H11ON,20000,6,11,1,1,0,0,0
+AA,Ester gum BL Hercules Incorporated,C20H30O2,5000,20,30,2,0,0,0,0
+AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",C27H28O10N18,2000,27,28,10,18,0,0,0
+AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",C10H16,2000,10,16,0,0,0,0,0
+AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",C5H6O2,780000,5,6,2,0,0,0,0
+AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,C10H10,3000,10,10,0,0,0,0,0
+AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",C2H3Cl,233000,2,3,0,0,1,0,0
+AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",C17H14O,2000,17,14,1,0,0,0,0
+AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),C10H11O3,4475,10,11,3,0,0,0,0
