@@ -1,0 +1,15 @@
+,index,Max_values
+0,C_solvent,55.55555555555556
+1,H_solvent,70.0
+2,O_solvent,40.0
+3,N_solvent,16.666666666666664
+4,Cl_solvent,80.0
+5,Br_solvent,5.555555555555555
+6,S_solvent,66.66666666666666
+7,C_solute,53.125
+8,O_solute,41.81818181818181
+9,N_solute,21.686746987951807
+10,Cl_solute,16.666666666666664
+11,Mw_solvent_logtrnsfmed,5.33787456154649
+12,Mw_unit_solute_logtrnsfmed,6.640708167079652
+13,tot_Mw_logtrnsfmed,14.220976332738882

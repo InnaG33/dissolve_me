@@ -1,0 +1,15 @@
+,index,Min_values
+0,C_solvent,14.285714285714285
+1,H_solvent,0.0
+2,O_solvent,0.0
+3,N_solvent,0.0
+4,Cl_solvent,0.0
+5,Br_solvent,0.0
+6,S_solvent,0.0
+7,C_solute,16.666666666666664
+8,O_solute,0.0
+9,N_solute,0.0
+10,Cl_solute,0.0
+11,Mw_solvent_logtrnsfmed,3.4977794795083996
+12,Mw_unit_solute_logtrnsfmed,3.369156167450692
+13,tot_Mw_logtrnsfmed,6.90875477931522
