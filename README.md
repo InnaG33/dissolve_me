@@ -11,5 +11,9 @@
  - This datasets are originally from HSP Book, transformed into csv file.
 
  - The datasets consist of several variables (elements and their number in a solute and in a solvent molecules) and one target variable (solubility parameter).
+ 
+ Example of the model outcome vs. actual solubility
+ 
+ ![actual_predicted_count](output/actual_predicted_count.png)
 
 
