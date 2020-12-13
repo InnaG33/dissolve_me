@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Predicted Polymers Solubility</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+</head>
+
+<body>
+<style>
+  body {
+  margin-top: 0px; 
+  padding-top: 0px;  
+  background: rgb(158, 157, 157);
+  background: url("https://assemblingsugars.fr/wp-content/uploads/2020/04/Composite-Image-Neuro2A-web.jpg")
+  /* background: url('https://depts.washington.edu/open3dp/wordpress/wp-content/uploads/2015/01/PolymerElectroNegativity.png') */
+  }
+
+  .container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 20px;
+    background: rgb(249, 252, 215);
+  }
+  p {
+    color:rgb(3, 9, 34);
+    font-size: 16px;
+  }
+  #newd {
+    background: rgb(250, 239, 136);
+    color: rgb(7, 1, 32);
+    font-size: 22px;
+    border-color: rgb(4, 1, 19);
+    border-width: 2px;
+    border-radius: 20px;
+    box-shadow: 7px 7px 5px rgb(44, 36, 36);
+  }
+  #missions {
+    font-size: 50px;
+  }
+  #hemis {
+  margin-left: 10px;
+  margin-right: 10px;
+  height: 400px;
+  width: 300px;
+  }
+  #display-1 {
+    color: rgb(13, 133, 87);
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 1px;
+  }
+  #display-2 {
+    color: rgb(197, 48, 37);
+    font-size: 16px;
+    font-weight: bold;
+  }
+  #display-3 {
+    color: rgb(55, 44, 204);
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  #outmovie {
+    margin-left: 50px;
+  }
+  h2 {
+    font-size: 24px;
+    color: rgb(7, 9, 107);
+  }
+  h3 {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(12, 1, 10);
+    text-align: left;
+ 
+  }
+  #movie{
+  height: 36vh;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-right: 6vh;
+  margin-left: 6vh;
+  display: block;
+  border-radius: 2px;
+  padding: 1em;
+  width: auto;
+  box-shadow: 0px 0px 10px -4px grey;
+  text-align: center;
+}
+.movie{
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+  margin-right: 5vh;
+  margin-left: 5vh;
+  display: block;
+  border-radius: 2px;
+  padding: 1em;
+  width: auto;
+  text-align: center;
+}
+</style> 
+  <div class="container">
+    <div class="row">
+      <header id="movie" style="background-image: url(static/css/images/gpt_small3.png)" class="masthead bg-primary text-white text-center">
+      </header>
+    <div class="col-md-12">
+      <h2><u>Estimated solubility</u></h2>
+        <p>Model accuracy is about 80%. <i>Test the outcome results, then you can donate your actual solubility results <a href="mailto:innag33@gmail.com" target="_blank">here</a> to incraese overall model prediction accuracy.</i></p>
+    </div>
+</div>
+<hr class="my-4"> 
+
+<div class="movie">
+    <p>Showing results for</p>
+        <div class="row" id="outmovie" position="text-center">
+          <h3>Soluble in:</h3>
+          {% for i in range(lengths1) %}
+          <div class="col-md-3">
+            <ul id="display-1">{{ list1[i] }}</ul>
+          </div>
+          {% endfor %}
+        <br>
+        <br>
+      </div>
+
+      <div class="row" id="outmovie" position="text-center">
+          <h3>Non-soluble in:</h3>
+          {% for i in range(lengths2) %}
+          <div class="col-md-3">
+            <ul id="display-2">{{ list2[i] }}</ul>
+          </div>
+          {% endfor %}
+          <br>
+          <br>
+        </div>
+
+        <div class="row" id="outmovie" position="text-center">
+          <h3>Theta in:</h3>
+          {% for i in range(lengths3) %}
+          <div class="col-md-6">
+            <ul id="display-3">{{ list3[i] }}</ul>
+          </div>
+          {% endfor %}
+          <br>
+          <br>
+        </div>
+    
+    <br>
+    <a class="button" onClick="goBack()"><i class="fas fa-home"></i> Go Back to Home Page &amp; Try Again.</a>
+</div>
+
+</div>
+<!-- Copyright Section-->
+<section class="copyright py-4 text-center text-white">
+  <div class="container"><small class="pre-wrap">Copyright © Inna Gurevitch - "From people to the people"</small></div>
+</section>
+
+</body>
+
+<script>
+function goBack() {
+    window.history.back();
+}
+</script>
+
+</html>

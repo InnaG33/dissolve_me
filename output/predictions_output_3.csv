@@ -6,37 +6,37 @@
 4,343,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",n-Propanol,343,soluble,soluble
 5,1152,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Isoamyl_acetate,1152,non-soluble,soluble
 6,1189,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Acetic_anhydride,1189,soluble,soluble
-7,2420,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Isophorone,2420,soluble,theta
+7,2420,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Isophorone,2420,soluble,soluble
 8,2278,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Chlorobenzene,2278,soluble,soluble
 9,1053,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Propylene_carbonate,1053,soluble,soluble
 10,44,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Mesityl_oxide,44,soluble,soluble
-11,1344,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",o-Dichlorobenzene,1344,theta,soluble
+11,1344,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",o-Dichlorobenzene,1344,theta,theta
 12,183,C,"Epikote 1001-epoxy, Shell Chemical Co ",Cyclohexanol,183,soluble,soluble
-13,175,C,"Epikote 1001-epoxy, Shell Chemical Co ",Pentanol-1,175,non-soluble,non-soluble
+13,175,C,"Epikote 1001-epoxy, Shell Chemical Co ",Pentanol-1,175,non-soluble,soluble
 14,2526,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Carbon_terachloride,2526,soluble,soluble
-15,241,C,"Epikote 1001-epoxy, Shell Chemical Co ",Cyclohexylchloride,241,theta,non-soluble
+15,241,C,"Epikote 1001-epoxy, Shell Chemical Co ",Cyclohexylchloride,241,theta,theta
 16,1578,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Isobutyl_isobutyrate,1578,theta,soluble
 17,1186,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Formic_acid_90,1186,soluble,non-soluble
 18,618,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Diacetone_alcohol,618,soluble,soluble
-19,2190,AA,Ester gum BL Hercules Incorporated,1-Chlorobutane,2190,soluble,non-soluble
+19,2190,AA,Ester gum BL Hercules Incorporated,1-Chlorobutane,2190,soluble,soluble
 20,1280,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Pentanol-1,1280,soluble,soluble
 21,18,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Dipropylene_glycol,18,non-soluble,soluble
 22,913,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Methylene_chloride,913,soluble,soluble
 23,1145,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Isophorone,1145,soluble,soluble
-24,2101,Z,"Versamid 930-polyamide, General Mills, Inc",Carbon_terachloride,2101,theta,non-soluble
+24,2101,Z,"Versamid 930-polyamide, General Mills, Inc",Carbon_terachloride,2101,theta,soluble
 25,2584,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",gamma_Butyrolactone,2584,theta,non-soluble
 26,1809,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Cellusolve_acetate,1809,non-soluble,non-soluble
 27,1572,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Cyclohexanone,1572,soluble,soluble
 28,590,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Acetic_acid,590,non-soluble,non-soluble
 29,2392,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Glycerol,2392,non-soluble,non-soluble
-30,124,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Diisobutyl_ketone,124,theta,non-soluble
+30,124,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Diisobutyl_ketone,124,theta,theta
 31,2020,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",1-Chlorobutane,2020,soluble,soluble
 32,1297,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Oxitole,1297,soluble,soluble
 33,2592,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Cyclohexanone,2592,soluble,soluble
 34,1165,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Pyridine,1165,soluble,soluble
 35,222,C,"Epikote 1001-epoxy, Shell Chemical Co ",2-Nitropropane,222,soluble,soluble
 36,2749,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Methylal,2749,non-soluble,non-soluble
-37,1457,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Glycerol,1457,theta,non-soluble
+37,1457,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Glycerol,1457,theta,soluble
 38,655,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Pyridine,655,soluble,soluble
 39,2006,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Nitroethane,2006,non-soluble,non-soluble
 40,799,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,gamma_Butyrolactone,799,soluble,soluble
@@ -46,20 +46,20 @@
 44,2509,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Mesityl_oxide,2509,theta,soluble
 45,108,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Diacetone_alcohol,108,soluble,soluble
 46,1925,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Ethanolamine,1925,non-soluble,non-soluble
-47,200,C,"Epikote 1001-epoxy, Shell Chemical Co ",Diethyl_sulfide,200,theta,non-soluble
-48,1427,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",2_2-Dichloro_diethyl_ether,1427,non-soluble,non-soluble
+47,200,C,"Epikote 1001-epoxy, Shell Chemical Co ",Diethyl_sulfide,200,theta,theta
+48,1427,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",2_2-Dichloro_diethyl_ether,1427,non-soluble,soluble
 49,1952,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Butyric_acid,1952,soluble,non-soluble
 50,467,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Cyclohexanone,467,soluble,soluble
-51,2614,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",1_1_1-Trichloroethane,2614,non-soluble,theta
+51,2614,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",1_1_1-Trichloroethane,2614,non-soluble,non-soluble
 52,1360,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Methanol ,1360,non-soluble,non-soluble
-53,2538,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Toluene,2538,soluble,soluble
+53,2538,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Toluene,2538,soluble,non-soluble
 54,917,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",2_2-Dichloro_diethyl_ether,917,soluble,soluble
 55,1383,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Diacetone_alcohol,1383,soluble,soluble
-56,2685,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Nitromethane,2685,non-soluble,soluble
-57,1569,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Diisobutyl_ketone,1569,soluble,soluble
+56,2685,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Nitromethane,2685,non-soluble,non-soluble
+57,1569,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Diisobutyl_ketone,1569,soluble,non-soluble
 58,210,C,"Epikote 1001-epoxy, Shell Chemical Co ",Isophorone,210,soluble,soluble
 59,1464,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",2-Butoxyethanol,1464,soluble,soluble
-60,2770,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Nitromethane,2770,non-soluble,non-soluble
+60,2770,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Nitromethane,2770,non-soluble,soluble
 61,1183,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Hexane,1183,non-soluble,non-soluble
 62,2080,Z,"Versamid 930-polyamide, General Mills, Inc",Isophorone,2080,non-soluble,non-soluble
 63,2213,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",n-Propanol,2213,soluble,soluble
@@ -69,7 +69,7 @@
 67,1454,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Propylene_glycol,1454,non-soluble,soluble
 68,961,L,"Cellulose acetate, Cellidora A-Bayer AG",Diethyl_ether,961,non-soluble,non-soluble
 69,2060,Z,"Versamid 930-polyamide, General Mills, Inc",Methyl_dioxitol,2060,non-soluble,non-soluble
-70,458,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Propylene_carbonate,458,non-soluble,non-soluble
+70,458,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Propylene_carbonate,458,non-soluble,soluble
 71,1126,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Butyl_dioxitol,1126,soluble,soluble
 72,2466,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Ethanol_96,2466,non-soluble,non-soluble
 73,383,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",Tetrahydrofuran,383,soluble,soluble
@@ -77,12 +77,12 @@
 75,2597,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Isoamyl_acetate,2597,non-soluble,non-soluble
 76,1951,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Formic_acid_90,1951,non-soluble,non-soluble
 77,724,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Mesityl_oxide,724,non-soluble,soluble
-78,1448,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",n-Propanol,1448,theta,theta
+78,1448,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",n-Propanol,1448,theta,soluble
 79,665,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",alpha-bromonaphtaline,665,soluble,non-soluble
 80,450,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Methyl_Cellusolve,450,soluble,non-soluble
 81,1161,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Dimethyl_formamide,1161,soluble,soluble
-82,2771,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Nitroethane,2771,non-soluble,non-soluble
-83,538,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Dioxane,538,soluble,soluble
+82,2771,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Nitroethane,2771,non-soluble,soluble
+83,538,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Dioxane,538,soluble,non-soluble
 84,672,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Tetralin,672,non-soluble,soluble
 85,1525,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Acetic_acid,1525,soluble,soluble
 86,238,C,"Epikote 1001-epoxy, Shell Chemical Co ",Chlorobenzene,238,soluble,soluble
@@ -91,20 +91,20 @@
 89,533,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Diacetone_alcohol,533,non-soluble,soluble
 90,1700,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Methanol ,1700,non-soluble,non-soluble
 91,1723,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Diacetone_alcohol,1723,soluble,soluble
-92,25,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Methyl_Cellusolve,25,theta,non-soluble
+92,25,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Methyl_Cellusolve,25,theta,soluble
 93,632,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Methyl_isobutyl_ketone,632,soluble,soluble
 94,2036,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Formic_acid_90,2036,non-soluble,non-soluble
 95,1318,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Tetrahydrofuran,1318,soluble,soluble
 96,255,D,Plexal P65-66 oil length alkyd Polyplex,Methanol ,255,non-soluble,non-soluble
 97,1718,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Dipropylene_glycol,1718,non-soluble,non-soluble
 98,2045,Z,"Versamid 930-polyamide, General Mills, Inc",Pentanol-1,2045,soluble,soluble
-99,688,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Methyl_isobutyl_carbinol,688,soluble,non-soluble
+99,688,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Methyl_isobutyl_carbinol,688,soluble,soluble
 100,2405,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Methyl_Cellusolve,2405,soluble,soluble
 101,2626,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Styrene,2626,non-soluble,non-soluble
 102,443,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Dipropylene_glycol,443,non-soluble,soluble
 103,1137,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Dimethyl_sulphoxide,1137,soluble,soluble
 104,781,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,n-Butyl_lactate,781,soluble,soluble
-105,77,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Tetralin,77,soluble,soluble
+105,77,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Tetralin,77,soluble,theta
 106,1513,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Chlorobenzene,1513,soluble,soluble
 107,439,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",m-Cresol,439,soluble,soluble
 108,744,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",1_1_1-Trichloroethane,744,non-soluble,soluble
@@ -139,16 +139,16 @@
 137,2136,AA,Ester gum BL Hercules Incorporated,1_3-Butandiol,2136,non-soluble,soluble
 138,1744,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Mesityl_oxide,1744,soluble,soluble
 139,63,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Methylene_chloride,63,soluble,soluble
-140,686,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",2-Ethyl_butanol,686,soluble,non-soluble
+140,686,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",2-Ethyl_butanol,686,soluble,soluble
 141,229,C,"Epikote 1001-epoxy, Shell Chemical Co ",Cyclohexylamine,229,soluble,soluble
 142,1233,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Tetrahydrofuran,1233,soluble,soluble
 143,519,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Propylene_glycol,519,non-soluble,non-soluble
 144,315,D,Plexal P65-66 oil length alkyd Polyplex,Pyridine,315,soluble,soluble
-145,1094,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Xylene,1094,soluble,non-soluble
+145,1094,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Xylene,1094,soluble,soluble
 146,457,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Dimethyl_sulphoxide,457,soluble,soluble
 147,2570,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Methyl_dioxitol,2570,non-soluble,non-soluble
 148,2375,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Acetic_acid,2375,non-soluble,non-soluble
-149,959,L,"Cellulose acetate, Cellidora A-Bayer AG",Cellusolve_acetate,959,theta,non-soluble
+149,959,L,"Cellulose acetate, Cellidora A-Bayer AG",Cellusolve_acetate,959,theta,soluble
 150,1955,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Methanol ,1955,non-soluble,non-soluble
 151,2140,AA,Ester gum BL Hercules Incorporated,Ethyl_lactate,2140,theta,non-soluble
 152,2158,AA,Ester gum BL Hercules Incorporated,Propylene_carbonate,2158,non-soluble,non-soluble
@@ -159,14 +159,14 @@
 157,317,D,Plexal P65-66 oil length alkyd Polyplex,Chloroform,317,soluble,soluble
 158,1061,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Acetophenone,1061,soluble,soluble
 159,2059,Z,"Versamid 930-polyamide, General Mills, Inc",2-Butoxyethanol,2059,theta,non-soluble
-160,1658,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Tetrahydrofuran,1658,soluble,soluble
+160,1658,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Tetrahydrofuran,1658,soluble,non-soluble
 161,1631,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",n-Butyl_lactate,1631,non-soluble,non-soluble
 162,2694,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Cyclohexylamine,2694,soluble,soluble
 163,1033,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Cyclohexanol,1033,soluble,soluble
 164,1666,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Nitroethane,1666,non-soluble,non-soluble
 165,1559,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Methylal,1559,soluble,soluble
-166,754,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Xylene,754,non-soluble,non-soluble
-167,2599,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Acetonitrile,2599,non-soluble,non-soluble
+166,754,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Xylene,754,non-soluble,soluble
+167,2599,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Acetonitrile,2599,non-soluble,soluble
 168,900,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Nitromethane,900,non-soluble,non-soluble
 169,1590,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Pyridine,1590,soluble,soluble
 170,1520,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Ethyl_benzene,1520,soluble,soluble
@@ -176,13 +176,13 @@
 174,78,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Hexane,78,non-soluble,non-soluble
 175,543,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Propylene_carbonate,543,non-soluble,non-soluble
 176,1831,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",n-Butyl_acetate,1831,soluble,non-soluble
-177,871,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Butyl_dioxitol,871,soluble,soluble
-178,1873,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",n-Propanol,1873,soluble,non-soluble
+177,871,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Butyl_dioxitol,871,soluble,non-soluble
+178,1873,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",n-Propanol,1873,soluble,soluble
 179,2114,Z,"Versamid 930-polyamide, General Mills, Inc",Xylene,2114,non-soluble,non-soluble
 180,2238,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Dioxane,2238,soluble,soluble
 181,1247,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Diethyl_amine,1247,soluble,soluble
 182,2558,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Methyl_isobutyl_carbinol,2558,non-soluble,non-soluble
-183,2079,Z,"Versamid 930-polyamide, General Mills, Inc",Diisobutyl_ketone,2079,non-soluble,non-soluble
+183,2079,Z,"Versamid 930-polyamide, General Mills, Inc",Diisobutyl_ketone,2079,non-soluble,soluble
 184,1085,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",1-Chlorobutane,1085,soluble,soluble
 185,2431,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Nitroethane,2431,theta,soluble
 186,471,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",n-Butyl_acetate,471,soluble,soluble
@@ -194,11 +194,11 @@
 192,1624,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Propylene_glycol,1624,non-soluble,non-soluble
 193,2149,AA,Ester gum BL Hercules Incorporated,Cellusolve_acetate,2149,soluble,soluble
 194,1734,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",gamma_Butyrolactone,1734,soluble,soluble
-195,962,L,"Cellulose acetate, Cellidora A-Bayer AG",Furan,962,non-soluble,soluble
+195,962,L,"Cellulose acetate, Cellidora A-Bayer AG",Furan,962,non-soluble,theta
 196,751,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Cyclohexylchloride,751,non-soluble,non-soluble
 197,91,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",2-Ethyl_butanol,91,soluble,non-soluble
 198,689,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Propylene_glycol,689,soluble,soluble
-199,1500,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Ethanolamine,1500,non-soluble,theta
+199,1500,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Ethanolamine,1500,non-soluble,soluble
 200,1248,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Morpholine,1248,soluble,soluble
 201,1458,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Cyclohexanol,1458,soluble,soluble
 202,1988,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Propylene_carbonate,1988,non-soluble,non-soluble
@@ -206,7 +206,7 @@
 204,1293,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Dipropylene_glycol,1293,soluble,soluble
 205,2205,AA,Ester gum BL Hercules Incorporated,Acetic_acid,2205,theta,non-soluble
 206,1439,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Cyclohexane,1439,non-soluble,non-soluble
-207,2719,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Acetic_anhydride,2719,non-soluble,non-soluble
+207,2719,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Acetic_anhydride,2719,non-soluble,soluble
 208,1204,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",m-Cresol,1204,soluble,soluble
 209,41,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Acetophenone,41,soluble,soluble
 210,207,C,"Epikote 1001-epoxy, Shell Chemical Co ",Methyl_isobutyl_ketone,207,soluble,soluble
@@ -221,7 +221,7 @@
 219,135,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Nitromethane,135,non-soluble,soluble
 220,442,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Diethylene_glycol,442,non-soluble,non-soluble
 221,1754,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Nitrobenzene,1754,soluble,soluble
-222,140,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Ethanolamine,140,non-soluble,non-soluble
+222,140,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Ethanolamine,140,non-soluble,soluble
 223,1597,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,2_2-Dichloro_diethyl_ether,1597,soluble,soluble
 224,1132,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Furan,1132,non-soluble,soluble
 225,2360,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",1-Chlorobutane,2360,soluble,soluble
@@ -231,49 +231,49 @@
 229,2120,Z,"Versamid 930-polyamide, General Mills, Inc",Acetic_acid,2120,theta,non-soluble
 230,151,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Trichloroethylene,151,theta,soluble
 231,2728,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Methyl_isobutyl_carbinol,2728,non-soluble,non-soluble
-232,233,C,"Epikote 1001-epoxy, Shell Chemical Co ",Methylene_chloride,233,soluble,theta
+232,233,C,"Epikote 1001-epoxy, Shell Chemical Co ",Methylene_chloride,233,soluble,soluble
 233,1645,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Diethyl_sulfide,1645,soluble,soluble
 234,2611,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Carbon_terachloride,2611,non-soluble,non-soluble
 235,546,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Methyl_ethyl_ketone,546,soluble,soluble
 236,1397,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Methyl_isobutyl_ketone,1397,theta,non-soluble
 237,1296,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Butyl_dioxitol,1296,soluble,soluble
 238,634,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Diisobutyl_ketone,634,non-soluble,non-soluble
-239,1281,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",2-Ethyl_butanol,1281,soluble,soluble
+239,1281,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",2-Ethyl_butanol,1281,soluble,non-soluble
 240,1818,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Propylene_carbonate,1818,non-soluble,non-soluble
 241,2299,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",n-Butanol,2299,non-soluble,non-soluble
-242,87,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Ethanol_99p9,87,non-soluble,soluble
+242,87,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Ethanol_99p9,87,non-soluble,non-soluble
 243,2033,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Hexane,2033,soluble,soluble
 244,2745,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Methyl_Cellusolve,2745,soluble,non-soluble
 245,1876,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",2-Ethyl_butanol,1876,soluble,soluble
 246,2430,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Nitromethane,2430,theta,soluble
 247,1881,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",1_3-Butandiol,1881,non-soluble,soluble
 248,2415,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Acetone,2415,soluble,soluble
-249,1426,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Trichloroethylene,1426,non-soluble,soluble
+249,1426,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Trichloroethylene,1426,non-soluble,non-soluble
 250,1577,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Isoamyl_acetate,1577,soluble,soluble
 251,60,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Pyridine,60,soluble,soluble
 252,896,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",n-Butyl_acetate,896,soluble,soluble
 253,1737,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Methyl_isobutyl_ketone,1737,soluble,soluble
-254,729,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Acetonitrile,729,non-soluble,non-soluble
+254,729,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Acetonitrile,729,non-soluble,soluble
 255,293,D,Plexal P65-66 oil length alkyd Polyplex,Methyl_isoamyl_ketone,293,soluble,soluble
 256,69,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",o-Dichlorobenzene,69,soluble,soluble
-257,1146,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Acetophenone,1146,soluble,soluble
+257,1146,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Acetophenone,1146,soluble,non-soluble
 258,1302,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Furan,1302,non-soluble,soluble
 259,2605,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Ethanolamine,2605,non-soluble,non-soluble
-260,123,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Methyl_isoamyl_ketone,123,soluble,non-soluble
+260,123,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Methyl_isoamyl_ketone,123,soluble,soluble
 261,2254,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Mesityl_oxide,2254,soluble,soluble
-262,1791,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",2-Ethyl_butanol,1791,non-soluble,non-soluble
+262,1791,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",2-Ethyl_butanol,1791,non-soluble,soluble
 263,2162,AA,Ester gum BL Hercules Incorporated,Methyl_isobutyl_ketone,2162,soluble,soluble
 264,1816,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Carbon_disulfide,1816,soluble,soluble
 265,5,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Pentanol-1,5,theta,non-soluble
 266,1385,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Methyl_Cellusolve,1385,soluble,non-soluble
 267,2704,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",o-Dichlorobenzene,2704,soluble,soluble
-268,782,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,Diethylene_glycol,782,soluble,non-soluble
+268,782,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,Diethylene_glycol,782,soluble,soluble
 269,1160,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Ethanolamine,1160,soluble,soluble
 270,1099,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Cyclohexane,1099,soluble,non-soluble
 271,2161,AA,Ester gum BL Hercules Incorporated,Methyl_ethyl_ketone,2161,soluble,soluble
 272,1021,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Ethanol_96,1021,soluble,soluble
 273,177,C,"Epikote 1001-epoxy, Shell Chemical Co ",2-Ethyl_hexanol,177,non-soluble,non-soluble
-274,1306,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Carbon_disulfide,1306,non-soluble,theta
+274,1306,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Carbon_disulfide,1306,non-soluble,soluble
 275,2277,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",2_2-Dichloro_diethyl_ether,2277,soluble,soluble
 276,2768,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Isobutyl_isobutyrate,2768,non-soluble,non-soluble
 277,769,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,n-Butanol,769,non-soluble,non-soluble
@@ -284,7 +284,7 @@
 282,223,C,"Epikote 1001-epoxy, Shell Chemical Co ",Aniline,223,soluble,soluble
 283,1514,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",o-Dichlorobenzene,1514,soluble,soluble
 284,1747,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Isoamyl_acetate,1747,soluble,soluble
-285,902,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",2-Nitropropane,902,theta,non-soluble
+285,902,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",2-Nitropropane,902,theta,soluble
 286,1677,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Chloroform,1677,soluble,soluble
 287,2090,Z,"Versamid 930-polyamide, General Mills, Inc",Nitromethane,2090,non-soluble,non-soluble
 288,1202,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Glycerol,1202,non-soluble,non-soluble
@@ -292,7 +292,7 @@
 290,703,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Diacetone_alcohol,703,soluble,soluble
 291,1143,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Methyl_isoamyl_ketone,1143,soluble,soluble
 292,1406,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",n-Butyl_acetate,1406,non-soluble,soluble
-293,1591,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Carbon_terachloride,1591,non-soluble,soluble
+293,1591,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Carbon_terachloride,1591,non-soluble,theta
 294,292,D,Plexal P65-66 oil length alkyd Polyplex,Methyl_isobutyl_ketone,292,soluble,soluble
 295,1114,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Propylene_glycol,1114,soluble,soluble
 296,522,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Glycerol,522,non-soluble,non-soluble
@@ -301,9 +301,9 @@
 299,14,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",m-Cresol,14,theta,soluble
 300,1237,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Isoamyl_acetate,1237,soluble,soluble
 301,1169,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",1_1_1-Trichloroethane,1169,non-soluble,non-soluble
-302,392,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",2-Nitropropane,392,non-soluble,soluble
+302,392,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",2-Nitropropane,392,non-soluble,non-soluble
 303,861,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",1_3-Butandiol,861,non-soluble,non-soluble
-304,2458,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Hexane,2458,non-soluble,theta
+304,2458,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Hexane,2458,non-soluble,non-soluble
 305,1685,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",alpha-bromonaphtaline,1685,soluble,soluble
 306,2620,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",alpha-bromonaphtaline,2620,theta,non-soluble
 307,2404,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Cellusolve_acetate,2404,soluble,soluble
@@ -322,14 +322,14 @@
 320,1523,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Hexane,1523,non-soluble,non-soluble
 321,1603,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Toluene,1603,theta,soluble
 322,164,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Cyclohexane,164,non-soluble,non-soluble
-323,592,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Butyric_acid,592,theta,soluble
+323,592,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Butyric_acid,592,theta,non-soluble
 324,2118,Z,"Versamid 930-polyamide, General Mills, Inc",Hexane,2118,non-soluble,non-soluble
-325,29,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Methylal,29,soluble,non-soluble
+325,29,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Methylal,29,soluble,soluble
 326,998,L,"Cellulose acetate, Cellidora A-Bayer AG",Methylene_chloride,998,non-soluble,non-soluble
 327,1522,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Tetralin,1522,soluble,soluble
 328,2066,Z,"Versamid 930-polyamide, General Mills, Inc",Diethyl_ether,2066,non-soluble,soluble
 329,1906,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Methyl_ethyl_ketone,1906,soluble,soluble
-330,1593,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Methylene_chloride,1593,soluble,theta
+330,1593,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Methylene_chloride,1593,soluble,soluble
 331,2137,AA,Ester gum BL Hercules Incorporated,Glycerol,2137,non-soluble,non-soluble
 332,2105,Z,"Versamid 930-polyamide, General Mills, Inc",1-Chlorobutane,2105,non-soluble,non-soluble
 333,2613,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Methylene_chloride,2613,soluble,non-soluble
@@ -338,16 +338,16 @@
 336,1696,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Formic_acid_90,1696,non-soluble,non-soluble
 337,345,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",Pentanol-1,345,soluble,soluble
 338,2122,Z,"Versamid 930-polyamide, General Mills, Inc",Butyric_acid,2122,soluble,non-soluble
-339,600,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Pentanol-1,600,soluble,non-soluble
+339,600,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Pentanol-1,600,soluble,theta
 340,927,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Tetralin,927,soluble,soluble
 341,806,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,Acetophenone,806,soluble,soluble
 342,1583,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Aniline,1583,soluble,soluble
 343,2335,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Isophorone,2335,soluble,soluble
-344,1792,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",2-Ethyl_hexanol,1792,non-soluble,non-soluble
+344,1792,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",2-Ethyl_hexanol,1792,non-soluble,soluble
 345,2076,Z,"Versamid 930-polyamide, General Mills, Inc",Methyl_ethyl_ketone,2076,non-soluble,soluble
 346,890,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Isophorone,890,soluble,soluble
 347,2498,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Propylene_carbonate,2498,non-soluble,non-soluble
-348,2125,AA,Ester gum BL Hercules Incorporated,Methanol ,2125,non-soluble,non-soluble
+348,2125,AA,Ester gum BL Hercules Incorporated,Methanol ,2125,non-soluble,theta
 349,2218,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Methyl_isobutyl_carbinol,2218,soluble,soluble
 350,2281,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Cyclohexylchloride,2281,soluble,soluble
 351,1557,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Furan,1557,soluble,soluble
@@ -377,9 +377,9 @@
 375,1150,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Ethyl_acetate,1150,soluble,soluble
 376,54,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Nitrobenzene,54,soluble,soluble
 377,2265,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Ethanolamine,2265,non-soluble,soluble
-378,2300,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Pentanol-1,2300,non-soluble,soluble
+378,2300,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Pentanol-1,2300,non-soluble,non-soluble
 379,1072,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",2-Nitropropane,1072,soluble,soluble
-380,1119,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",m-Cresol,1119,soluble,soluble
+380,1119,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",m-Cresol,1119,soluble,non-soluble
 381,1579,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Acetonitrile,1579,soluble,soluble
 382,2536,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Cyclohexylchloride,2536,soluble,soluble
 383,1999,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Mesityl_oxide,1999,soluble,soluble
@@ -401,7 +401,7 @@
 399,532,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Oxitole,532,non-soluble,non-soluble
 400,2625,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Ethyl_benzene,2625,non-soluble,non-soluble
 401,2569,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",2-Butoxyethanol,2569,non-soluble,non-soluble
-402,2600,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Nitromethane,2600,non-soluble,soluble
+402,2600,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Nitromethane,2600,non-soluble,non-soluble
 403,2549,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Acetic_anhydride,2549,non-soluble,non-soluble
 404,2271,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Carbon_terachloride,2271,soluble,soluble
 405,1199,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Propylene_glycol,1199,non-soluble,soluble
@@ -424,7 +424,7 @@
 422,647,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",2-Nitropropane,647,soluble,soluble
 423,1836,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Nitroethane,1836,non-soluble,non-soluble
 424,1285,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Ethylene_glycol,1285,non-soluble,soluble
-425,2737,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Diethylene_glycol,2737,soluble,non-soluble
+425,2737,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Diethylene_glycol,2737,soluble,soluble
 426,1589,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Cyclohexylamine,1589,theta,soluble
 427,629,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",gamma_Butyrolactone,629,soluble,soluble
 428,2476,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,1_3-Butandiol,2476,non-soluble,non-soluble
@@ -434,8 +434,8 @@
 432,1505,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Pyridine,1505,soluble,soluble
 433,2710,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Ethyl_benzene,2710,soluble,soluble
 434,2155,AA,Ester gum BL Hercules Incorporated,Diethyl_sulfide,2155,soluble,soluble
-435,680,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Methanol ,680,theta,non-soluble
-436,339,D,Plexal P65-66 oil length alkyd Polyplex,Acetic_anhydride,339,theta,soluble
+435,680,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Methanol ,680,theta,soluble
+436,339,D,Plexal P65-66 oil length alkyd Polyplex,Acetic_anhydride,339,theta,non-soluble
 437,2116,Z,"Versamid 930-polyamide, General Mills, Inc",Styrene,2116,non-soluble,non-soluble
 438,115,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Diethyl_sulfide,115,theta,theta
 439,447,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Oxitole,447,soluble,soluble
@@ -443,7 +443,7 @@
 441,2581,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Carbon_disulfide,2581,non-soluble,non-soluble
 442,1947,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Tetralin,1947,soluble,soluble
 443,92,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",2-Ethyl_hexanol,92,soluble,non-soluble
-444,790,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,Methyl_Cellusolve,790,soluble,non-soluble
+444,790,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,Methyl_Cellusolve,790,soluble,soluble
 445,1043,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Diacetone_alcohol,1043,soluble,soluble
 446,107,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Oxitole,107,non-soluble,soluble
 447,648,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Aniline,648,soluble,soluble
@@ -451,18 +451,18 @@
 449,1830,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Ethyl_acetate,1830,non-soluble,non-soluble
 450,2741,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Butyl_dioxitol,2741,soluble,non-soluble
 451,374,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",gamma_Butyrolactone,374,soluble,soluble
-452,1401,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Acetophenone,1401,soluble,soluble
+452,1401,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Acetophenone,1401,soluble,non-soluble
 453,271,D,Plexal P65-66 oil length alkyd Polyplex,n-Butyl_lactate,271,soluble,soluble
 454,753,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Toluene,753,soluble,soluble
 455,857,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",2-Ethyl_hexanol,857,non-soluble,soluble
 456,2077,Z,"Versamid 930-polyamide, General Mills, Inc",Methyl_isobutyl_ketone,2077,non-soluble,soluble
 457,745,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",1-Chlorobutane,745,theta,non-soluble
 458,2171,AA,Ester gum BL Hercules Incorporated,n-Butyl_acetate,2171,soluble,soluble
-459,307,D,Plexal P65-66 oil length alkyd Polyplex,2-Nitropropane,307,soluble,soluble
+459,307,D,Plexal P65-66 oil length alkyd Polyplex,2-Nitropropane,307,soluble,non-soluble
 460,919,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",o-Dichlorobenzene,919,soluble,soluble
 461,2455,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Ethyl_benzene,2455,non-soluble,theta
 462,262,D,Plexal P65-66 oil length alkyd Polyplex,2-Ethyl_hexanol,262,soluble,soluble
-463,2748,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Dioxane,2748,soluble,soluble
+463,2748,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Dioxane,2748,soluble,non-soluble
 464,2222,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Glycerol,2222,non-soluble,soluble
 465,134,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Acetonitrile,134,non-soluble,soluble
 466,1316,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Acetophenone,1316,soluble,soluble
@@ -471,7 +471,7 @@
 469,133,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Isobutyl_isobutyrate,133,non-soluble,soluble
 470,1538,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Methyl_isobutyl_carbinol,1538,theta,theta
 471,90,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Pentanol-1,90,non-soluble,non-soluble
-472,1928,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Morpholine,1928,theta,soluble
+472,1928,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Morpholine,1928,theta,non-soluble
 473,113,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Dioxane,113,soluble,soluble
 474,681,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Ethanol_96,681,soluble,soluble
 475,1763,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Methylene_chloride,1763,soluble,soluble
@@ -483,24 +483,24 @@
 481,143,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Morpholine,143,soluble,soluble
 482,955,L,"Cellulose acetate, Cellidora A-Bayer AG",Methyl_dioxitol,955,theta,non-soluble
 483,2262,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",2-Nitropropane,2262,soluble,soluble
-484,1661,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",n-Butyl_acetate,1661,soluble,soluble
-485,2665,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Diethyl_sulfide,2665,soluble,non-soluble
+484,1661,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",n-Butyl_acetate,1661,soluble,non-soluble
+485,2665,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Diethyl_sulfide,2665,soluble,soluble
 486,1000,L,"Cellulose acetate, Cellidora A-Bayer AG",1-Chlorobutane,1000,non-soluble,non-soluble
 487,1957,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Ethanol_99p9,1957,non-soluble,non-soluble
 488,1975,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Methyl_dioxitol,1975,non-soluble,non-soluble
 489,308,D,Plexal P65-66 oil length alkyd Polyplex,Aniline,308,soluble,soluble
 490,202,C,"Epikote 1001-epoxy, Shell Chemical Co ",Dimethyl_sulphoxide,202,soluble,soluble
 491,27,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Furan,27,soluble,soluble
-492,288,D,Plexal P65-66 oil length alkyd Polyplex,Propylene_carbonate,288,non-soluble,soluble
+492,288,D,Plexal P65-66 oil length alkyd Polyplex,Propylene_carbonate,288,non-soluble,non-soluble
 493,541,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Carbon_disulfide,541,soluble,soluble
-494,525,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Ethyl_lactate,525,non-soluble,soluble
+494,525,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Ethyl_lactate,525,non-soluble,non-soluble
 495,2248,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Methyl_isoamyl_ketone,2248,soluble,soluble
 496,327,D,Plexal P65-66 oil length alkyd Polyplex,Benzene,327,soluble,soluble
 497,366,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",Diethyl_ether,366,theta,soluble
 498,1205,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Ethyl_lactate,1205,soluble,soluble
 499,1850,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",1-Chlorobutane,1850,soluble,soluble
-500,2500,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Acetone,2500,non-soluble,soluble
-501,1074,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Nitrobenzene,1074,soluble,non-soluble
+500,2500,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Acetone,2500,non-soluble,non-soluble
+501,1074,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Nitrobenzene,1074,soluble,soluble
 502,779,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,m-Cresol,779,non-soluble,soluble
 503,2269,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Cyclohexylamine,2269,soluble,soluble
 504,1278,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",n-Propanol,1278,soluble,soluble
@@ -508,19 +508,19 @@
 506,1948,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Hexane,1948,soluble,soluble
 507,45,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",Ethyl_acetate,45,soluble,soluble
 508,565,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Ethanolamine,565,non-soluble,non-soluble
-509,2775,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Ethanolamine,2775,soluble,non-soluble
+509,2775,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),Ethanolamine,2775,soluble,soluble
 510,2519,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Nitrobenzene,2519,non-soluble,non-soluble
 511,168,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Benzaldehyde,168,soluble,soluble
 512,1478,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Propylene_carbonate,1478,soluble,soluble
 513,1167,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Chloroform,1167,non-soluble,soluble
 514,1203,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Cyclohexanol,1203,soluble,soluble
 515,2204,AA,Ester gum BL Hercules Incorporated,Cyclohexane,2204,soluble,non-soluble
-516,1379,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",2-Butoxyethanol,1379,soluble,soluble
+516,1379,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",2-Butoxyethanol,1379,soluble,non-soluble
 517,1574,S,Desmophen 850 Polyester-Farbenfabriken Bayer Leverkusen,Mesityl_oxide,1574,soluble,soluble
 518,483,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Morpholine,483,soluble,soluble
 519,635,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Isophorone,635,soluble,soluble
 520,1093,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Toluene,1093,soluble,soluble
-521,2381,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Ethanol_96,2381,non-soluble,theta
+521,2381,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Ethanol_96,2381,non-soluble,non-soluble
 522,934,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Acetic_anhydride,934,non-soluble,non-soluble
 523,2336,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Acetophenone,2336,non-soluble,soluble
 524,2423,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Tetrahydrofuran,2423,soluble,soluble
@@ -533,7 +533,7 @@
 531,2117,Z,"Versamid 930-polyamide, General Mills, Inc",Tetralin,2117,non-soluble,non-soluble
 532,846,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,Formic_acid_90,846,non-soluble,soluble
 533,360,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",Methyl_dioxitol,360,soluble,soluble
-534,1221,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Carbon_disulfide,1221,soluble,theta
+534,1221,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Carbon_disulfide,1221,soluble,soluble
 535,173,C,"Epikote 1001-epoxy, Shell Chemical Co ",n-Propanol,173,theta,soluble
 536,2321,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Diethyl_ether,2321,soluble,non-soluble
 537,2138,AA,Ester gum BL Hercules Incorporated,Cyclohexanol,2138,soluble,soluble
@@ -545,7 +545,7 @@
 543,795,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,Diethyl_sulfide,795,non-soluble,non-soluble
 544,1265,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Ethyl_benzene,1265,soluble,soluble
 545,1124,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",2-Butoxyethanol,1124,soluble,soluble
-546,2182,AA,Ester gum BL Hercules Incorporated,Diethyl_amine,2182,soluble,non-soluble
+546,2182,AA,Ester gum BL Hercules Incorporated,Diethyl_amine,2182,soluble,soluble
 547,301,D,Plexal P65-66 oil length alkyd Polyplex,n-Butyl_acetate,301,soluble,soluble
 548,2595,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Ethyl_acetate,2595,non-soluble,non-soluble
 549,1805,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Methyl_dioxitol,1805,non-soluble,non-soluble
@@ -559,13 +559,13 @@
 557,1438,Q,"Suprasec F5100-blocked isocyanate (phenol), Imperial Chemical Ind",Hexane,1438,non-soluble,non-soluble
 558,422,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",Butyric_acid,422,soluble,soluble
 559,1055,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Acetone,1055,soluble,soluble
-560,2038,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Benzaldehyde,2038,theta,soluble
+560,2038,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Benzaldehyde,2038,theta,non-soluble
 561,929,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Cyclohexane,929,non-soluble,soluble
 562,158,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Toluene,158,soluble,soluble
 563,2471,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,2-Ethyl_butanol,2471,non-soluble,non-soluble
 564,2007,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",2-Nitropropane,2007,non-soluble,non-soluble
 565,2240,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Diethyl_sulfide,2240,soluble,soluble
-566,1475,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Diethyl_sulfide,1475,soluble,non-soluble
+566,1475,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Diethyl_sulfide,1475,soluble,soluble
 567,1263,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Toluene,1263,soluble,soluble
 568,2167,AA,Ester gum BL Hercules Incorporated,Cyclohexanone,2167,soluble,soluble
 569,2727,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),2-Ethyl_hexanol,2727,non-soluble,non-soluble
@@ -584,7 +584,7 @@
 582,1636,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Butyl_dioxitol,1636,non-soluble,non-soluble
 583,2470,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Pentanol-1,2470,non-soluble,non-soluble
 584,1967,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Glycerol,1967,non-soluble,non-soluble
-585,1471,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Diethyl_ether,1471,non-soluble,theta
+585,1471,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Diethyl_ether,1471,non-soluble,soluble
 586,1080,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Pyridine,1080,soluble,soluble
 587,973,L,"Cellulose acetate, Cellidora A-Bayer AG",Methyl_isoamyl_ketone,973,non-soluble,non-soluble
 588,1252,O,"Cellolyn 102-modified pentaerythritol ester of rosin, Hercules Incorporated",Chloroform,1252,soluble,soluble
@@ -595,28 +595,28 @@
 593,1890,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Methyl_dioxitol,1890,non-soluble,non-soluble
 594,1108,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",n-Propanol,1108,soluble,soluble
 595,1853,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Chlorobenzene,1853,soluble,soluble
-596,2422,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Cyclohexanone,2422,soluble,theta
+596,2422,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Cyclohexanone,2422,soluble,soluble
 597,1796,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",1_3-Butandiol,1796,non-soluble,non-soluble
-598,2582,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Dimethyl_sulphoxide,2582,soluble,theta
+598,2582,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Dimethyl_sulphoxide,2582,soluble,non-soluble
 599,2144,AA,Ester gum BL Hercules Incorporated,2-Butoxyethanol,2144,soluble,soluble
 600,469,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Mesityl_oxide,469,soluble,soluble
 601,585,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Ethyl_benzene,585,soluble,soluble
 602,409,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",o-Dichlorobenzene,409,soluble,soluble
 603,2623,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Toluene,2623,non-soluble,soluble
-604,2618,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Chlorobenzene,2618,theta,theta
+604,2618,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Chlorobenzene,2618,theta,non-soluble
 605,2023,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Chlorobenzene,2023,soluble,soluble
 606,1699,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Acetic_anhydride,1699,non-soluble,non-soluble
 607,712,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Dimethyl_sulphoxide,712,soluble,soluble
 608,1063,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Tetrahydrofuran,1063,soluble,soluble
 609,859,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Propylene_glycol,859,non-soluble,non-soluble
 610,2314,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",2-Butoxyethanol,2314,non-soluble,non-soluble
-611,2327,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Dimethyl_sulphoxide,2327,non-soluble,soluble
+611,2327,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Dimethyl_sulphoxide,2327,non-soluble,non-soluble
 612,620,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",Methyl_Cellusolve,620,soluble,soluble
 613,2256,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",n-Butyl_acetate,2256,soluble,soluble
 614,2482,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Diethylene_glycol,2482,non-soluble,non-soluble
-615,1757,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Diethyl_amine,1757,soluble,soluble
+615,1757,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Diethyl_amine,1757,soluble,non-soluble
 616,1511,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Trichloroethylene,1511,soluble,soluble
-617,350,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",Ethylene_glycol,350,non-soluble,soluble
+617,350,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",Ethylene_glycol,350,non-soluble,non-soluble
 618,2544,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Cyclohexane,2544,soluble,soluble
 619,1133,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Dioxane,1133,soluble,soluble
 620,2703,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Chlorobenzene,2703,soluble,soluble
@@ -627,7 +627,7 @@
 625,2230,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Methyl_dioxitol,2230,soluble,soluble
 626,395,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",Ethanolamine,395,soluble,non-soluble
 627,1496,R,"Plexal C34-34 coconut oil-phthalic anhydride alkyd, Polyplex",Nitroethane,1496,soluble,soluble
-628,1962,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",2-Ethyl_hexanol,1962,non-soluble,non-soluble
+628,1962,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",2-Ethyl_hexanol,1962,non-soluble,soluble
 629,463,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Methyl_isoamyl_ketone,463,soluble,soluble
 630,2772,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),2-Nitropropane,2772,non-soluble,soluble
 631,1706,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",2-Ethyl_butanol,1706,non-soluble,non-soluble
@@ -643,7 +643,7 @@
 641,1673,T,"Polysar 5630-styrene-butadiene (SBR) raw elastomer, Polymer Corp ",Morpholine,1673,theta,soluble
 642,64,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",1_1_1-Trichloroethane,64,soluble,soluble
 643,70,A,"Lucite 2042-poly (ethyl methacrylate), E. I. du Pont de Nemours & Co",alpha-bromonaphtaline,70,soluble,non-soluble
-644,2715,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Acetic_acid,2715,non-soluble,soluble
+644,2715,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Acetic_acid,2715,non-soluble,non-soluble
 645,1788,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",n-Propanol,1788,non-soluble,non-soluble
 646,2552,AF,"Vipla KR-poly (vinyl chloride), K = 50, Montecatini",Ethanol_99p9,2552,non-soluble,non-soluble
 647,2790,AH,Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956),alpha-bromonaphtaline,2790,theta,non-soluble
@@ -653,14 +653,14 @@
 651,1010,L,"Cellulose acetate, Cellidora A-Bayer AG",Ethyl_benzene,1010,non-soluble,non-soluble
 652,1835,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Nitromethane,1835,non-soluble,non-soluble
 653,358,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",Dipropylene_glycol,358,soluble,soluble
-654,2104,Z,"Versamid 930-polyamide, General Mills, Inc",1_1_1-Trichloroethane,2104,non-soluble,non-soluble
+654,2104,Z,"Versamid 930-polyamide, General Mills, Inc",1_1_1-Trichloroethane,2104,non-soluble,soluble
 655,780,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,Ethyl_lactate,780,soluble,soluble
 656,1312,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Methyl_isobutyl_ketone,1312,soluble,soluble
 657,709,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",Methylal,709,non-soluble,soluble
 658,1987,Y,"Buna Huls CB JO-cis poly butadiene raw elastomer, Chemische Werke Huels Z",Dimethyl_sulphoxide,1987,non-soluble,non-soluble
-659,555,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Ethyl_acetate,555,soluble,soluble
+659,555,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Ethyl_acetate,555,soluble,non-soluble
 660,875,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Methyl_Cellusolve,875,non-soluble,non-soluble
-661,2342,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Isoamyl_acetate,2342,soluble,non-soluble
+661,2342,AC,"Piccolyte S100-terpene resin, Pennsylvania Industrial Chemical Corp",Isoamyl_acetate,2342,soluble,soluble
 662,206,C,"Epikote 1001-epoxy, Shell Chemical Co ",Methyl_ethyl_ketone,206,soluble,soluble
 663,1333,P,"Pentalyn 255-akohol soluble resin, Hercules Incorporated",Morpholine,1333,soluble,soluble
 664,474,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Acetonitrile,474,non-soluble,non-soluble
@@ -675,10 +675,10 @@
 673,829,J,Sec_Nitrocellulose-H 23 Hagedorn and Co Osnabriick W Germany,1_1_1-Trichloroethane,829,non-soluble,non-soluble
 674,1130,N,"Phenodur 373U-phenol-resol resin, Chemische Werke Albert-Wiesbaden",Methyl_Cellusolve,1130,soluble,soluble
 675,2713,AG,"Piccoumarone 450L-cumarone-indene resin, Pennsylvania Industrial Chemical Corp L Milled wood lignin-Special sample from prof Bjorkman (Bjorkman 1956)",Hexane,2713,non-soluble,non-soluble
-676,1091,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Cyclohexylchloride,1091,soluble,non-soluble
+676,1091,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Cyclohexylchloride,1091,soluble,soluble
 677,1813,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Dioxane,1813,theta,non-soluble
 678,1883,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Cyclohexanol,1883,soluble,soluble
-679,567,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Diethyl_amine,567,soluble,soluble
+679,567,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Diethyl_amine,567,soluble,non-soluble
 680,2485,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Methyl_dioxitol,2485,non-soluble,non-soluble
 681,2253,AB,"Cymel 300-hexamethoxy melamine, American Cyanamid Co",Tetrahydrofuran,2253,soluble,soluble
 682,2129,AA,Ester gum BL Hercules Incorporated,n-Butanol,2129,theta,soluble
@@ -688,16 +688,16 @@
 686,1760,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Pyridine,1760,soluble,soluble
 687,132,B,"Poly (methyl methacrylate), Rohm Lnd Haas Co",Isoamyl_acetate,132,soluble,soluble
 688,1912,X,"Lutonal IC 123-poly (isobutylene), Badische Anilin- und Soda Fabrik",Cyclohexanone,1912,soluble,soluble
-689,1095,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Ethyl_benzene,1095,soluble,non-soluble
+689,1095,M,"Super Beckacite 1001-Pure Phenolic Resin, Reichhold Chemicals Co--Hamburg",Ethyl_benzene,1095,soluble,soluble
 690,694,I,"Plastopal H-urea formaldehyde resin, Badische Anilin- und Soda Fabrik",m-Cresol,694,soluble,soluble
 691,2494,AE,Piccopale 110-petroleum hydrocarbon resin Pennsylvania Industrial Chemical Corp,Methylal,2494,theta,non-soluble
 692,2417,AD,"Durez 14383-furfuryl alcohol resin, Hooker Chemical Co",Methyl_isobutyl_ketone,2417,theta,theta
 693,660,H,"Mowilith 50-poly (vinyl acetate), Farbwerke Hoechst ",1-Chlorobutane,660,soluble,theta
 694,407,E,"Pentalyn 830-alcohol soluble rosin resin, Hercules Incorported",2_2-Dichloro_diethyl_ether,407,non-soluble,soluble
-695,928,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Hexane,928,non-soluble,soluble
+695,928,K,"ParIon P10-chlorinated poly (propylene), Hercules Incorporated",Hexane,928,non-soluble,non-soluble
 696,1803,V,"Cariflex IR 305-isoprene raw elastomer, Shell Chemical Co",Dipropylene_glycol,1803,non-soluble,non-soluble
 697,491,F,"Butvar B76-poly (vinyl butyral), Shawinigan Resins Co ",Trichloroethylene,491,soluble,soluble
 698,190,C,"Epikote 1001-epoxy, Shell Chemical Co ",Methyl_dioxitol,190,soluble,soluble
 699,576,G,"Polystyrene LG, Badische Anilin- und Soda Fabrik ",Trichloroethylene,576,soluble,soluble
-700,1759,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Cyclohexylamine,1759,soluble,soluble
+700,1759,U,"Hycar 1052-acrylonitrile-butadiene raw elastomer, BF Goodrich Chemical Corp",Cyclohexylamine,1759,soluble,non-soluble
 701,2139,AA,Ester gum BL Hercules Incorporated,m-Cresol,2139,soluble,soluble
