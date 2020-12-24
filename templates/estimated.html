@@ -16,7 +16,6 @@
   padding-top: 0px;  
   background: rgb(158, 157, 157);
   background: url("https://assemblingsugars.fr/wp-content/uploads/2020/04/Composite-Image-Neuro2A-web.jpg")
-  /* background: url('https://depts.washington.edu/open3dp/wordpress/wp-content/uploads/2015/01/PolymerElectroNegativity.png') */
   }
 
   .container {
@@ -79,11 +78,11 @@
  
   }
   #movie{
-  height: 36vh;
+  height: 37vh;
   margin-top: 2vh;
   margin-bottom: 2vh;
-  margin-right: 6vh;
-  margin-left: 6vh;
+  margin-right: 8vh;
+  margin-left: 8vh;
   display: block;
   border-radius: 2px;
   padding: 1em;
@@ -109,13 +108,13 @@
       </header>
     <div class="col-md-12">
       <h2><u>Estimated solubility</u></h2>
-        <p>Model accuracy is about 80%. <i>Test the outcome results, then you can donate your actual solubility results <a href="mailto:innag33@gmail.com" target="_blank">here</a> to incraese overall model prediction accuracy.</i></p>
+        <p>Model accuracy is about 80%. <i>To increase it, contribute your actual solubility results and email me <a href="mailto:innag33@gmail.com" target="_blank">here</a>.</i></p>
     </div>
 </div>
 <hr class="my-4"> 
 
 <div class="movie">
-    <p>Showing results for</p>
+    <p>Showing results for: {{ showres }}, Mw = {{ Molw }}</p>
         <div class="row" id="outmovie" position="text-center">
           <h3>Soluble in:</h3>
           {% for i in range(lengths1) %}

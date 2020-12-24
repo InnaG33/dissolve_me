@@ -1,25 +1,21 @@
 import flask
 #import predict_sol
 
-from flask import Flask, render_template, redirect, jsonify
+from flask import Flask, render_template, jsonify
 
-import warnings
-warnings.filterwarnings('ignore')
+#import warnings
+#warnings.filterwarnings('ignore')
 
 import pandas as pd
-import scipy.stats as st
 import numpy as np
-import seaborn as sns
 
-from tensorflow.keras.models import load_model
-from sklearn.preprocessing import FunctionTransformer  
+from tensorflow.keras.models import load_model 
 from sklearn.preprocessing import LabelEncoder, MinMaxScaler
-from tensorflow.keras.utils import to_categorical
 
 app = flask.Flask(__name__, template_folder='templates')
 
 # Load the trained model
-solubility_model = load_model("output/SolubilityModel4.h5")
+solubility_model = load_model("output/SolubilityModel6.h5")
 
 # read the model X and solvents data 
 X_data=pd.read_csv("output/X_model.csv")
@@ -72,13 +68,19 @@ def main():
     
     if flask.request.method == 'POST':
         elnums= flask.request.form.getlist("elnum")
-
+        
+        outmolf=""
+        
         for i in range(len(elements)):
             solute_tt.loc[0, elements[i]]=float(elnums[i])
+            
+            outmolf=outmolf+elements[i]+":"+str(elnums[i])+" "
     
         Mw_tot = flask.request.form['Mw_tot']
 #        print("entered Mw: ", Mw_tot)
         solute_tt.loc[0, 'Mw_tot']=float(Mw_tot)
+        
+        outMw=int(Mw_tot)
 
 # calculate Mw and % elements in input df
         solute_tt = get_Mw(solute_tt)
@@ -104,13 +106,16 @@ def main():
         solute_tt_solvents=pd.concat([solvents1, solute_tt], axis=1)
         
 # prepare the model df: drop, log transform and scale
-        solute_tt_model=solute_tt_solvents.drop(['H_solute', 'total_els', 'Solvent', 'Chem_structure'], axis=1)
-        log_transformer = FunctionTransformer(np.log1p)
+        solute_tt_model=solute_tt_solvents.drop(['total_els', 'Solvent', 'Chem_structure'], axis=1)
 
 # Log Transform the molecular weights
+        solute_tt_model1 = solute_tt_model.copy()
+            
         for i in ['Mw_solvent', 'Mw_solute', 'Mw_tot']:
-            solute_tt_model[i+'_logtrnsfmed'] = log_transformer.fit_transform(solute_tt_model[[i]]) 
-        solute_tt_model = solute_tt_model.drop(['Mw_solvent', 'Mw_solute', 'Mw_tot', 'Br_solute', 'S_solute'], axis=1)
+            solute_tt_model1[i+'_log'] = np.log1p(solute_tt_model1[i]) 
+            solute_tt_model1.drop(i, axis=1, inplace=True)
+            
+        solute_tt_model1.drop(['Br_solute', 'S_solute'], axis=1, inplace=True)
 
         X = X_data
         y = y_data['solubility_category']
@@ -120,7 +125,7 @@ def main():
         label_encoder = LabelEncoder()
         label_encoder.fit(y)
 
-        X_tt=solute_tt_model
+        X_tt=solute_tt_model1
         X_tt_scaled = X_scaler.transform(X_tt)
 
 # Make predictions for requested polymer unit
@@ -133,7 +138,6 @@ def main():
 # Join predicted with solvents info to get solvents names
         pred_results=pd.concat([solute_tt_solvents, pred_model_df], axis=1)
         pred_solvents=pred_results[['Solvent', 'Predicted_solubility_category']]
-        lgth=len(pred_solvents)
 
         soluble_df = pred_solvents.loc[(pred_solvents['Predicted_solubility_category']=='soluble')]
         non_soluble_df = pred_solvents.loc[(pred_solvents['Predicted_solubility_category']=='non-soluble')]
@@ -147,9 +151,9 @@ def main():
         lengths2=len(non_soluble_list)
         lengths3=len(theta_list)
 
-        print(f"length of solubles: {lengths1}; non-solubles: {lengths2}; thetas {lengths3}")
+        print(f"length of solubles {lengths1} non-solubles {lengths2} thetas {lengths3}")
         
-        return flask.render_template('estimated.html',list1=soluble_list,list2=non_soluble_list,list3=theta_list, lengths1=lengths1, lengths2=lengths2, lengths3=lengths3)
+        return flask.render_template('estimated.html',list1=soluble_list,list2=non_soluble_list,list3=theta_list, lengths1=lengths1, lengths2=lengths2, lengths3=lengths3, showres=outmolf, Molw=outMw)
 
 #####****************************** End of Algorithm ****************************************
 @app.route("/read_polymers")
@@ -158,12 +162,14 @@ def read_polymers():
     polymer_info = pd.read_csv("data/polymer_info.csv")
     polymers=polymer_info.Polymer_name.tolist()
     structures=polymer_info.Monomer_chem_structure.tolist()
+    Mwtot=polymer_info.tot_Mw.tolist()
 
-    output = {} 
+    output = []
     for i in range(len(polymers)): 
-        output.update( {polymers[i] : structures[i]} )
+        output.append({"Name" : polymers[i]})
+        output.append({"Structure" : structures[i]})
+        output.append({"Tot Mw" : Mwtot[i]})
 
-    print("length of output: ", len(output))
 
     return jsonify(output)
 
